@@ -90,6 +90,27 @@
 
 <br><br>
 
+<br>
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jazminbascunan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazminbascunan&layout=compact&theme=tokyonight" height="160"/>
+
+</div>
+
+<br>
+
+## 🏆 Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jazminbascunan&theme=onedark&margin-w=10&row=2&column=3" />
+</p>
+
+<br>
+
 ## 🤝 ¡Conectemos!
 
 <div align="left">
