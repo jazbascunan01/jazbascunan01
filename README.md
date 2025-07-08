@@ -106,4 +106,4 @@
 
 ---
 
-> 🧠 *"Aprender no es una fase, es un hábito que elijo todos los días."*
+> 🧠  “El código es como el humor. Cuando tienes que explicarlo, no es tan bueno.” – Cory House
