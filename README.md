@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola, soy Jazmín Bascuñan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">🎓 Estudiante avanzada en Desarrollo de Aplicaciones Informáticas | 💻 Técnica en Informática Personal y Profesional | 🌱 Apasionada por el desarrollo web</p>
+<p align="center">🎓 Tecnicatura en Desarrollo de Aplicaciones Informáticas | 💻 Técnicatura en Informática Personal y Profesional</p>
 
 <br>
 
