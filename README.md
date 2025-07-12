@@ -96,8 +96,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jazminbascunan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazminbascunan&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jazbascunan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazbascunan01&layout=compact&theme=tokyonight" height="160"/>
 
 </div>
 
@@ -106,7 +106,7 @@
 ## 🏆 Trofeos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jazminbascunan&theme=onedark&margin-w=10&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jazbascunan01&theme=onedark&margin-w=10&row=2&column=3" />
 </p>
 
 <br>
