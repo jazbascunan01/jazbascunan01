@@ -82,8 +82,8 @@
 
 <div align="center">
 
-<a href="https://github.com/jazminbascunan">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jazminbascunan&show_icons=true&locale=es&layout=compact&line_height=20&title_color=FFA07A&text_color=FFEBCD&bg_color=0,000000,1a1a1a" width="375"/>
+<a href="https://github.com/jazbascunan01">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jazbascunan01&show_icons=true&locale=es&layout=compact&line_height=20&title_color=FFA07A&text_color=FFEBCD&bg_color=0,000000,1a1a1a" width="375"/>
 </a>
 
 </div>
