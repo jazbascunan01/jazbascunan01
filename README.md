@@ -4,7 +4,7 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
+## <picture><img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="40"></picture> **Sobre mí**
 
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
