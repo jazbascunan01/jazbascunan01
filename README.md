@@ -6,7 +6,9 @@
 
 ## <picture><img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="40"></picture> **Sobre mí**
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture>
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW11bHV1dWVzZWpiN2s1YzRoMXYweHhnYzJmbDJoODBhbWNlOGhmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="250px">
+</picture>
 
 - 💡 Estudiante avanzada en la **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas** (UNICEN).
 - 💻 Técnica en Informática Personal y Profesional.
@@ -27,6 +29,8 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 <br>
 
@@ -38,7 +42,7 @@
   ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
   ![AOS](https://img.shields.io/badge/AOS-000000?style=for-the-badge&logoColor=white)
   ![WOW.js](https://img.shields.io/badge/WOW.js-7D4698?style=for-the-badge&logoColor=white)
-  ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+  <!--![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white) -->
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
