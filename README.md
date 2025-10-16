@@ -10,7 +10,7 @@
 
 - 💡 Estudiante avanzada en la **Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas** (UNICEN).
 - 💻 Técnica en Informática Personal y Profesional.
-- 🚀 Experiencia en proyectos web reales, backend con Java y PHP, y frontend con HTML, JS, animaciones y más.
+- 🚀 Experiencia en proyectos web reales, backend con Java, PHP y Node.js, y frontend con HTML, JS, animaciones y más.
 - 🌱 Complemento mi formación con aprendizaje autodidacta continuo.
 - 🌐 Apasionada por la programación y los desafíos en equipo.
 - 🎯 Busco mejorar mi inglés para potenciar mi crecimiento profesional.
@@ -39,11 +39,17 @@
   ![AOS](https://img.shields.io/badge/AOS-000000?style=for-the-badge&logoColor=white)
   ![WOW.js](https://img.shields.io/badge/WOW.js-7D4698?style=for-the-badge&logoColor=white)
   ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br>
 
 - **Backend y Bases de Datos**:
 
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
   ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
